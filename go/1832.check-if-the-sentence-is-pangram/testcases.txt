@@ -1,0 +1,9 @@
+input:
+"thequickbrownfoxjumpsoverthelazydog"
+output:
+true
+
+input:
+"leetcode"
+output:
+false
